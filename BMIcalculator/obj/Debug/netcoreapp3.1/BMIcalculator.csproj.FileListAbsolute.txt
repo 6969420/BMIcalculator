@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\bin\Debug\netcoreapp3.1\BMIcalculator.exe
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\bin\Debug\netcoreapp3.1\BMIcalculator.deps.json
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\bin\Debug\netcoreapp3.1\BMIcalculator.runtimeconfig.json
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\bin\Debug\netcoreapp3.1\BMIcalculator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\bin\Debug\netcoreapp3.1\BMIcalculator.dll
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\bin\Debug\netcoreapp3.1\BMIcalculator.pdb
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\obj\Debug\netcoreapp3.1\BMIcalculator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\obj\Debug\netcoreapp3.1\BMIcalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\obj\Debug\netcoreapp3.1\BMIcalculator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\obj\Debug\netcoreapp3.1\BMIcalculator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\obj\Debug\netcoreapp3.1\BMIcalculator.dll
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\obj\Debug\netcoreapp3.1\BMIcalculator.pdb
+C:\Users\opilane\source\repos\BMIcalculator\BMIcalculator\obj\Debug\netcoreapp3.1\BMIcalculator.genruntimeconfig.cache
